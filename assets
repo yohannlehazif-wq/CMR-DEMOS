@@ -1,0 +1,11 @@
+Fichiers attendus : atelier-ambiance.ogg et alarme.ogg. Utiliser des sons dont RESTEV 85 possède les droits.
+
+Exporter de Blender les lightmaps 2K en WebP ou intégrer les lightmaps directement dans atelier-complet.glb. UV2 obligatoire.
+
+Déposer ici :
+- atelier-complet.glb : décor principal avec matériaux PBR et lightmaps intégrées
+- personnage-rigge.glb : personnage riggé CC0 avec animation idle/walk
+
+La scène conserve automatiquement le décor de secours si un fichier manque.
+
+Prévoir les cartes 2K WebP : basecolor, normal, roughness, ambient-occlusion. Source recommandée : ambientCG Concrete 047 A ou Concrete 012, CC0.
